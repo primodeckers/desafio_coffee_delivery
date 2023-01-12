@@ -1,0 +1,13 @@
+{
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true,
+    "prettier/prettier": [
+        "error",
+        {
+            "singleQuote": true,
+            "parser": "flow"
+        }
+    ]
+}
